@@ -1,8 +1,6 @@
 # Hey, I'm Jens 👋
 
-> Cybersecurity student from Trondheim · creating fun stuff with code and AI
-
----
+> Cybersecurity & Digital Infrastructure student from Trondheim
 
 ## what I'm about
 

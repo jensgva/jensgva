@@ -1,4 +1,5 @@
-# Hey, I'm Jens 👋 > Cybersecurity & Digital Infrastructure student from Trondheim
+# Hey, I'm Jens 👋
+> Cybersecurity & Digital Infrastructure student from Trondheim
 
 
 
@@ -18,21 +19,9 @@ I like creating things, particularly relating to AI and seeing how i can apply t
 
 ---
 
-## stack
-
-```
-Languages   →   Python · PowerShell
-Interests   →   Computer Vision · ML · Automation · Systems
-Currently   →   pushing GymbroAI further
-```
-
----
-
 ## find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-jensgva-181717?style=flat-square&logo=github)](https://github.com/jensgva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jens%20Valderhaug-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jens-valderhaug-584957225/)
 
 ---
-
-<sub>📍 Trondheim, Norway</sub>

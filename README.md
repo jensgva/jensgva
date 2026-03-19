@@ -1,6 +1,6 @@
-# Hey, I'm Jens 👋
+# Hey, I'm Jens 👋 > Cybersecurity & Digital Infrastructure student from Trondheim
 
-> Cybersecurity & Digital Infrastructure student from Trondheim
+
 
 ## what I'm about
 

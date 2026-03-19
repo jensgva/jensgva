@@ -14,9 +14,9 @@ I like creating things, particularly relating to AI and seeing how i can apply t
 
 | project | what it does |
 |---|---|
-| 🏋️ **GymbroAI** | AI fitness trainer with real-time exercise recognition, rep counting and form feedback. In contrast to many other similar project this one uses xgboost (decision trees) for excercise classification |
-| 🤖 **nmiai_warmup_2026** | This is the code me and my group used for the warmup task of the Norwegian AI championship 2026 |
-| ⚡ **DCST1005** | PowerShell systems & infrastructure work, used in one of my school courses |
+| **GymbroAI** | AI fitness trainer with real-time exercise recognition, rep counting and form feedback. In contrast to many other similar project this one uses xgboost (decision trees) for excercise classification |
+| **nmiai_warmup_2026** | This is the code me and my group used for the warmup task of the Norwegian AI championship 2026 |
+| **DCST1005** | PowerShell systems & infrastructure work, used in one of my school courses |
 
 ---
 

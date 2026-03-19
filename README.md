@@ -1,18 +1,40 @@
-## Hi there 👋
+# hey, I'm Jens 👋
 
-HALLLLAAAA
+> CS student from Trondheim · building things at the intersection of AI and real life
 
-<!--
-**jensgva/jensgva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## what I'm about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like projects that actually do something — not just demos.
+Right now that means AI that moves with you, systems that automate the boring stuff, and code that solves problems I care about.
+
+---
+
+## things I've built
+
+| project | what it does |
+|---|---|
+| 🏋️ **GymbroAI** | AI fitness trainer with real-time exercise recognition & rep counting |
+| 🤖 **GymbroAI prototype** | early exploration of the concept, in Python |
+| ⚡ **DCST1005** | PowerShell systems & infrastructure work |
+
+---
+
+## stack
+
+```
+Languages   →   Python · PowerShell
+Interests   →   Computer Vision · ML · Automation · Systems
+Currently   →   pushing GymbroAI further
+```
+
+---
+
+## find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-jensgva-181717?style=flat-square&logo=github)](https://github.com/jensgva)
+
+---
+
+<sub>📍 Trondheim, Norway</sub>

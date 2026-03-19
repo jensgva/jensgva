@@ -1,23 +1,22 @@
-# hey, I'm Jens 👋
+# Hey, I'm Jens 👋
 
-> CS student from Trondheim · building things at the intersection of AI and real life
+> Cybersecurity student from Trondheim · creating fun stuff with code and AI
 
 ---
 
 ## what I'm about
 
-I like projects that actually do something — not just demos.
-Right now that means AI that moves with you, systems that automate the boring stuff, and code that solves problems I care about.
+I like creating things, particularly relating to AI and seeing how i can apply the knowlege i get through my studies and student organisation Cogito NTNU
 
 ---
 
-## things I've built
+## My repos
 
 | project | what it does |
 |---|---|
-| 🏋️ **GymbroAI** | AI fitness trainer with real-time exercise recognition & rep counting |
-| 🤖 **GymbroAI prototype** | early exploration of the concept, in Python |
-| ⚡ **DCST1005** | PowerShell systems & infrastructure work |
+| 🏋️ **GymbroAI** | AI fitness trainer with real-time exercise recognition, rep counting and form feedback. In contrast to many other similar project this one uses xgboost (decision trees) for excercise classification |
+| 🤖 **nmiai_warmup_2026** | This is the code me and my group used for the warmup task of the Norwegian AI championship 2026 |
+| ⚡ **DCST1005** | PowerShell systems & infrastructure work, used in one of my school courses |
 
 ---
 
@@ -34,6 +33,7 @@ Currently   →   pushing GymbroAI further
 ## find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-jensgva-181717?style=flat-square&logo=github)](https://github.com/jensgva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jens%20Valderhaug-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jens-valderhaug-584957225/)
 
 ---
 
